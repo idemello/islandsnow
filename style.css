@@ -7,3 +7,9 @@
   box-shadow: none;
   border: none;
 }
+.footer-background{
+  background-color: #292929;
+  padding-bottom: 100px;
+  padding-top: 100px;
+  color:white;
+}
